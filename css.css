@@ -2,26 +2,27 @@
     text-align: center;
     font-style: italic;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color:olive;
+    
     text-decoration: none;
-    font-size: medium;
+    font-size: medium; 
+    background-repeat: none;
 }
 body {
     background-image: url("pozadina.jpg");
-    background-repeat: none;
 }
 
-#nav {
+.nav {
     font-size: medum;
     display: inline-flex;;
     color: white;
 }
 
-#nav header { font-size: large; color: white; text-decoration: double; position: sticky;}
+.nav header { font-size: large; color: white; text-decoration: double; position: sticky;}
 
 .onama {
     padding:20px;
-    font-style: bold;   
+    font-style: bold;  
+    color:olive;
 }
 
 img {
@@ -31,7 +32,7 @@ img {
 }
 
 .kontakt {
-    color: #444;
+    color:olive;
 }
 
  
