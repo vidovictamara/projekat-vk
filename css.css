@@ -13,6 +13,7 @@ body {
 .nav {
     background-color: olive;
     display: flex;
+    color: seagreen;
 }
 
 h1{
