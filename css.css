@@ -12,9 +12,8 @@ body {
 }
 
 .nav {
-    font-size: medum;
-    display: inline-flex;
-    color: white;
+    font-size: medium;
+    display: inline;
 }
 
 .nav header { font-size: large; color: white; text-decoration: double; position: sticky;}
