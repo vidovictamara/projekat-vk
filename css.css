@@ -28,7 +28,9 @@ body {
 img {
     height: 100px;
     width: 200px;
-    position: center;
+    position: relative;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 .kontakt {
